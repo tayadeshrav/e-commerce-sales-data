@@ -6,7 +6,8 @@
 
 3. Dataset
     •	Source :
-    kaggle - e-commerce sales dataset
+    kaggle -
+    e-commerce sales dataset
    
     •	Size :
     5000 rows, 15 columns
