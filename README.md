@@ -4,9 +4,8 @@
  This project analyzes e-commerce sales data to uncover insights about customer behavior, payment preferences, product categories, and revenue trends.
  The goal is to help businesses optimize marketing strategies, improve customer retention, and identify high-performing products.
 
-3. Dataset
-4. 
-    •	Source :
+2. Dataset
+3. Source :
     kaggle -
     e-commerce sales dataset
    
@@ -16,7 +15,7 @@
     •	Key columns:-
    customer_id, age, product_category,gender,quantity
    
-    •	Cleaning steps:-
+   4 •	Cleaning steps:-
    Removed duplicates,standardized date format,handled missing values
 
    
