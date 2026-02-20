@@ -5,10 +5,17 @@
  The goal is to help businesses optimize marketing strategies, improve customer retention, and identify high-performing products.
 
 3. Dataset
-    •	Source : kaggle - e-commerce sales dataset
-    •	Size : 5000 rows, 15 columns
-    •	Key columns:-customer_id, age, product_category,gender,quantity
-    •	Cleaning steps:-Removed duplicates,standardized date format,handled missing values
+    •	Source :
+    kaggle - e-commerce sales dataset
+   
+    •	Size :
+    5000 rows, 15 columns
+   
+    •	Key columns:-
+   customer_id, age, product_category,gender,quantity
+   
+    •	Cleaning steps:-
+   Removed duplicates,standardized date format,handled missing values
 
    
 5. Tools & Technologies
