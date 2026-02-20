@@ -29,17 +29,26 @@
 6. Methodology
  
     •	Data cleaning – Handled null values,data type correction
+   
     •	Exploratory Data Analysis (EDA) – pivot tables & charts
+   
     •	Visualization – sales trends, category performance
+   
     •	Insights - Identified top-selling products and seasonal demand spikes
+   
 
  Dashbord -<a href="https://github.com/tayadeshrav/e-commerce-sales-data/blob/main/project_img.png">view Dashbord</a>
    
 7. Key Insights
 
    •	Total Revenue: ₹4.92M
+   
    • Average Order Value (AOV): ₹983.11
+   
    • Credit cards are the most preferred payment method (45% of transactions).
+   
    • Electronics is the highest revenue-generating category.
+   
    • Seasonal spikes observed during festive months.
+   
 
