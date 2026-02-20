@@ -26,7 +26,8 @@
 
   Dataset - <a href="https://github.com/tayadeshrav/e-commerce-sales-data/blob/main/e-commerce_dataset.csv">view dataset</a>
  
-7. Methodology
+6. Methodology
+ 
     •	Data cleaning – Handled null values,data type correction
     •	Exploratory Data Analysis (EDA) – pivot tables & charts
     •	Visualization – sales trends, category performance
@@ -34,7 +35,8 @@
 
  Dashbord -<a href="https://github.com/tayadeshrav/e-commerce-sales-data/blob/main/project_img.png">view Dashbord</a>
    
-9. Key Insights
+7. Key Insights
+
    •	Total Revenue: ₹4.92M
    • Average Order Value (AOV): ₹983.11
    • Credit cards are the most preferred payment method (45% of transactions).
