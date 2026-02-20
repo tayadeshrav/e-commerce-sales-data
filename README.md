@@ -16,7 +16,7 @@
     •	Sql
     •	Power BI for dashboard visualization
 
-
+  Dataset - <a href="https://github.com/tayadeshrav/e-commerce-sales-data/blob/main/e-commerce_dataset.csv">view dataset</a>
  
 7. Methodology
     •	Data cleaning – Handled null values,data type correction
