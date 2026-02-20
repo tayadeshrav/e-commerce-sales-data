@@ -39,7 +39,7 @@
 
  Dashbord -<a href="https://github.com/tayadeshrav/e-commerce-sales-data/blob/main/project_img.png">view Dashbord</a>
 
- <img width="1170" height="660" alt="image" src="https://github.com/user-attachments/assets/419f09cd-3b3a-4afd-94cc-432b6c8756b3" />
+
 
    
 7. Key Insights
