@@ -1,4 +1,4 @@
-# e-commerce-sales-data
+<img width="1170" height="660" alt="image" src="https://github.com/user-attachments/assets/ca4f092f-0a98-40ef-9d3b-a554b61a89d6" /><img width="1170" height="660" alt="image" src="https://github.com/user-attachments/assets/84e7c2a1-6364-4c8e-8812-4f38cc33769b" /># e-commerce-sales-data
 
 1. Project Overview
  This project analyzes e-commerce sales data to uncover insights about customer behavior, payment preferences, product categories, and revenue trends.
@@ -38,6 +38,9 @@
    
 
  Dashbord -<a href="https://github.com/tayadeshrav/e-commerce-sales-data/blob/main/project_img.png">view Dashbord</a>
+
+ <img width="1170" height="660" alt="image" src="https://github.com/user-attachments/assets/419f09cd-3b3a-4afd-94cc-432b6c8756b3" />
+
    
 7. Key Insights
 
